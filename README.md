@@ -12,14 +12,20 @@ Breast Cancer Wisconsin (Diagnostic) Dataset (UCI Repository)
 Tech Stack:
 
 Python
+
 Pandas, NumPy
+
 Matplotlib
+
 Scikit-learn (Decision Tree Classifier)
+
 Jupyter Notebook / Python Script
 
 Key Outcomes:
 
 A trained Decision Tree model that predicts tumor type
+
 Visualization of the decision tree for interpretation (tree.png)
+
 High accuracy on both training and testing data
 A complete end-to-end machine learning workflow, from data loading to model evaluation
